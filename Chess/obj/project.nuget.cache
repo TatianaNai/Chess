@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwKumzqkmwB10/GkSSs1MVl4WyU2KHLd2ZHSG6iK3mW9UcPSTqPk83KGv5ChhSRN6PmpXImNWC3LJqP7KIjiRQ==",
+  "dgSpecHash": "6nEYXlkWMbE7aqRVW7vRUu6tEJMkW1M45he7vqn/YfVQQhl+QOLCe+W1aofKyCa7+SiM4uFMT1c6L2LyBW1+VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\C\\TMS\\Шахматы\\Chess\\Chess.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\Chess\\Chess\\Chess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
